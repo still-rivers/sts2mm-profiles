@@ -1,0 +1,493 @@
+{
+  "name": "wawa3",
+  "game_version": null,
+  "created_by": "sts2-mod-manager",
+  "mods": [
+    {
+      "name": "BaseLib",
+      "version": "v3.1.3",
+      "source": null,
+      "hash": "9e950d70598706e8cc47d05a1f64bb2836b4c1bdd8d1729a1e278c268e148829",
+      "files": [
+        "BaseLib.dll",
+        "BaseLib.json",
+        "BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/still-rivers/sts2mm-profiles/main/mods/BaseLib_3.1.3.zip"
+    },
+    {
+      "name": "BetterSpire2",
+      "version": "v1.82.3",
+      "source": null,
+      "hash": "bade1c0a8d4d2a410c1af11be0888df43d09f02d8e6226972c9ec7264dfc4526",
+      "files": [
+        "BetterSpire2\\BetterSpire2.dll",
+        "BetterSpire2\\BetterSpire2.json",
+        "BetterSpire2\\BetterSpire2_localization\\deu.lang",
+        "BetterSpire2\\BetterSpire2_localization\\eng.lang",
+        "BetterSpire2\\BetterSpire2_localization\\esp.lang",
+        "BetterSpire2\\BetterSpire2_localization\\fra.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ita.lang",
+        "BetterSpire2\\BetterSpire2_localization\\jpn.lang",
+        "BetterSpire2\\BetterSpire2_localization\\kor.lang",
+        "BetterSpire2\\BetterSpire2_localization\\pol.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ptb.lang",
+        "BetterSpire2\\BetterSpire2_localization\\README.txt",
+        "BetterSpire2\\BetterSpire2_localization\\rus.lang",
+        "BetterSpire2\\BetterSpire2_localization\\spa.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tha.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tur.lang",
+        "BetterSpire2\\BetterSpire2_localization\\zhs.lang"
+      ],
+      "folder_name": "BetterSpire2",
+      "mod_id": "BetterSpire2",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/still-rivers/sts2mm-profiles/main/mods/BetterSpire2_1.82.3.zip"
+    },
+    {
+      "name": "Codex Endless Mode",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "e285b866811653576dd68853152c8e3b28e5c3cefef4768009379b0bbbc12b3b",
+      "files": [
+        "codex.sts2.endlessmode.config",
+        "codex.sts2.endlessmode.dll",
+        "codex.sts2.endlessmode.json"
+      ],
+      "folder_name": "codex.sts2.endlessmode",
+      "mod_id": "codex.sts2.endlessmode",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/still-rivers/sts2mm-profiles/main/mods/Codex_Endless_Mode_0.1.0.zip"
+    },
+    {
+      "name": "config",
+      "version": "0.0.0",
+      "source": null,
+      "hash": "d67219bee0e8d55a909883aadc13e9924f0c012daace96659748596dd3278ecb",
+      "files": [
+        "config.json"
+      ],
+      "folder_name": "config",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/still-rivers/sts2mm-profiles/main/mods/config_0.0.0.zip"
+    },
+    {
+      "name": "Doom SFX",
+      "version": "v1.0.1",
+      "source": null,
+      "hash": "082c16ed04deb59294affb656dde588f417f821f4309fb0d47e0b4cb40acf530",
+      "files": [
+        "doom_sfx\\doom_sfx.dll",
+        "doom_sfx\\doom_sfx.json",
+        "doom_sfx\\doom_sfx.pck"
+      ],
+      "folder_name": "doom_sfx",
+      "mod_id": "doom_sfx",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/still-rivers/sts2mm-profiles/main/mods/Doom_SFX_1.0.1.zip"
+    },
+    {
+      "name": "LegacySpire",
+      "version": "1.1.7",
+      "source": null,
+      "hash": "3d0ed86be465b56aabebe4b700a648594dc08af1794d0336f29ba68faacc1e0d",
+      "files": [
+        "LegacySpire.dll",
+        "LegacySpire.json",
+        "LegacySpire.pck"
+      ],
+      "folder_name": "LegacySpire",
+      "mod_id": "LegacySpire",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/still-rivers/sts2mm-profiles/main/mods/LegacySpire_1.1.7.zip"
+    },
+    {
+      "name": "More Upgrades",
+      "version": "v1.1.0",
+      "source": null,
+      "hash": "1161d15b41ed09e0b5682b563546dde902f75d647cb1037835ca6298b4fbca47",
+      "files": [
+        "MoreUpgrades.cfg",
+        "MoreUpgrades.dll",
+        "MoreUpgrades.json"
+      ],
+      "folder_name": "MoreUpgrades",
+      "mod_id": "MoreUpgrades",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/still-rivers/sts2mm-profiles/main/mods/More_Upgrades_1.1.0.zip"
+    },
+    {
+      "name": "MultiEnchantmentMod",
+      "version": "v1.2",
+      "source": null,
+      "hash": "397c15658a93e3691bbb676f68959ec2e297fac0d889f66ab5c759755fc55476",
+      "files": [
+        "MultiEnchantmentMod.dll",
+        "MultiEnchantmentMod.json",
+        "MultiEnchantmentMod.pck"
+      ],
+      "folder_name": "MultiEnchantmentMod",
+      "mod_id": "MultiEnchantmentMod",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/still-rivers/sts2mm-profiles/main/mods/MultiEnchantmentMod_1.2.zip"
+    },
+    {
+      "name": "Princess",
+      "version": "v0.0.1",
+      "source": null,
+      "hash": "b0cf0c0dc43713605797781826c9f8b810fbadd43c4d91365d29dde3ca25b57b",
+      "files": [
+        "Princess\\Princess.dll",
+        "Princess\\Princess.json",
+        "Princess\\Princess.pck",
+        "Princess\\Princess.pdb"
+      ],
+      "folder_name": "Princess",
+      "mod_id": "Princess",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/still-rivers/sts2mm-profiles/main/mods/Princess_0.0.1.zip"
+    },
+    {
+      "name": "Random Opening Ancient",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "8ccbcda8fd85559e16a9bc59af7471bcc03cd50d6ff05c1b1d6e251f13ff30ae",
+      "files": [
+        "RandomOpeningAncient.dll",
+        "RandomOpeningAncient.json"
+      ],
+      "folder_name": "RandomOpeningAncient",
+      "mod_id": "RandomOpeningAncient",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/still-rivers/sts2mm-profiles/main/mods/Random_Opening_Ancient_1.0.0.zip"
+    },
+    {
+      "name": "RareStart",
+      "version": "v2.1.2",
+      "source": null,
+      "hash": "f9ec4c17c0bb07224371e90afcfac238818759e03440af91a9ad317ff50672f2",
+      "files": [
+        "RareStart\\assets\\ui\\btn_pick.png",
+        "RareStart\\assets\\ui\\btn_random.png",
+        "RareStart\\assets\\ui\\frame.png",
+        "RareStart\\assets\\ui\\nebel.gif",
+        "RareStart\\assets\\ui\\nebel.mp4",
+        "RareStart\\assets\\ui\\nebel.ogv",
+        "RareStart\\assets\\ui\\nebel_sheet.jpg",
+        "RareStart\\assets\\ui\\title.png",
+        "RareStart\\CHANGELOG.md",
+        "RareStart\\RareStart.config",
+        "RareStart\\RareStart.dll",
+        "RareStart\\RareStart.json",
+        "RareStart\\README.md"
+      ],
+      "folder_name": "RareStart",
+      "mod_id": "RareStart",
+      "enabled": true
+    },
+    {
+      "name": "RedMist",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "7f3c91047e1995e7cff928ba00f860500d6187c3b7a118f12d62898e1d9da8fa",
+      "files": [
+        "RedMist.dll",
+        "RedMist.json"
+      ],
+      "folder_name": "RedMist",
+      "mod_id": "RedMist",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/still-rivers/sts2mm-profiles/main/mods/RedMist_0.1.0.zip"
+    },
+    {
+      "name": "RegentCardsAnimeRework",
+      "version": "v0.5.1",
+      "source": null,
+      "hash": "1882f601ec0ee6231e3ca578c51b206ea1b8f609be559f5d199c4986d4cfe2be",
+      "files": [
+        "RegentCardsAnimeRework\\RegentCardsAnimeRework.dll",
+        "RegentCardsAnimeRework\\RegentCardsAnimeRework.json",
+        "RegentCardsAnimeRework\\RegentCardsAnimeRework.pck"
+      ],
+      "folder_name": "RegentCardsAnimeRework",
+      "mod_id": "RegentCardsAnimeRework",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/still-rivers/sts2mm-profiles/main/mods/RegentCardsAnimeRework_0.5.1.zip"
+    },
+    {
+      "name": "Relic Reward Choice",
+      "version": "1.7.0",
+      "source": null,
+      "hash": "ad3e3cf7d684a8886e94a3ffcf12cf8774256f8245ca9fe8cf827eab2f964813",
+      "files": [
+        "RelicRewardChoice.dll",
+        "RelicRewardChoice.json",
+        "RelicRewardChoice.pdb"
+      ],
+      "folder_name": "RelicRewardChoice",
+      "mod_id": "RelicRewardChoice",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/still-rivers/sts2mm-profiles/main/mods/Relic_Reward_Choice_1.7.0.zip"
+    },
+    {
+      "name": "Sell mod",
+      "version": "v0.0.18",
+      "source": null,
+      "hash": "243ad192fa37e0f582bf9b6a4669597ad283b3ead558cb8d87206eb727aa39a6",
+      "files": [
+        "SellMod\\BasicMod.dll",
+        "SellMod\\BasicMod.json",
+        "SellMod\\BasicMod.pck",
+        "SellMod\\Patchnote v0.0.18.txt"
+      ],
+      "folder_name": "SellMod",
+      "mod_id": "BasicMod",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/still-rivers/sts2mm-profiles/main/mods/Sell_mod_0.0.18.zip"
+    },
+    {
+      "name": "StS2Hoshino",
+      "version": "v0.0.11",
+      "source": null,
+      "hash": "fe3a0107f8399005e9f4f0b22aac461df70991b7fcedc9e9de39ea1c63f63d8f",
+      "files": [
+        "StS2Hoshino\\StS2Hoshino.dll",
+        "StS2Hoshino\\StS2Hoshino.json",
+        "StS2Hoshino\\StS2Hoshino.pck",
+        "StS2Hoshino\\StS2Hoshino.pck2857935.tmp",
+        "StS2Hoshino\\StS2Hoshino.pck2892407.tmp",
+        "StS2Hoshino\\StS2Hoshino.pck3135426.tmp"
+      ],
+      "folder_name": "StS2Hoshino",
+      "mod_id": "StS2Hoshino",
+      "enabled": true
+    },
+    {
+      "name": "TinyTentMod",
+      "version": "v1.2.0",
+      "source": null,
+      "hash": "edd648ae4aa3bcd94608017d55dcb54e0330d537e0364e32597343be97a6a178",
+      "files": [
+        "TinyTentMod.dll",
+        "TinyTentMod.json",
+        "TinyTentMod.pck"
+      ],
+      "folder_name": "TinyTentMod",
+      "mod_id": "TinyTentMod",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/still-rivers/sts2mm-profiles/main/mods/TinyTentMod_1.2.0.zip"
+    },
+    {
+      "name": "Unified Save Path",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "08b7cbb36c7b48820e44c060d2dc6b6c49edbb945c7cb1e8f7a44866f7c650cc",
+      "files": [
+        "UnifiedSavePath.dll",
+        "UnifiedSavePath.json",
+        "UnifiedSavePath.pck"
+      ],
+      "folder_name": "UnifiedSavePath",
+      "mod_id": "UnifiedSavePath",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/still-rivers/sts2mm-profiles/main/mods/Unified_Save_Path_1.0.0.zip"
+    },
+    {
+      "name": "VoiceMod",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "9e564fb4abe4435eb983ebd0f9acd9f74ee364d4af54fce2e1f7b29a898f8350",
+      "files": [
+        "regentvoicemod\\mod_manifest.json",
+        "regentvoicemod\\VoiceMod.dll",
+        "regentvoicemod\\VoiceMod.pck"
+      ],
+      "folder_name": "regentvoicemod",
+      "mod_id": "voicemod",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/still-rivers/sts2mm-profiles/main/mods/VoiceMod_1.0.0.zip"
+    },
+    {
+      "name": "史上最好的猎手卡牌扩展 | Ultimate Silent Card Expansion",
+      "version": "0.2.1",
+      "source": null,
+      "hash": "e7c05cfecf9b7f866ce4e6844f6edac48b0cc72367dda7b2bad35c9132d936f6",
+      "files": [
+        "UltimateSilentCardExpansion\\UltimateSilentCardExpansion.dll",
+        "UltimateSilentCardExpansion\\UltimateSilentCardExpansion.json",
+        "UltimateSilentCardExpansion\\UltimateSilentCardExpansion.pck"
+      ],
+      "folder_name": "UltimateSilentCardExpansion",
+      "mod_id": "UltimateSilentCardExpansion",
+      "enabled": true
+    },
+    {
+      "name": "帕秋莉库",
+      "version": "1.4",
+      "source": null,
+      "hash": "7729b8f9ddabe85276758cf6c0fc867842e8d6001394c4dd177b3e9ef07aecd5",
+      "files": [
+        "Patchoulib\\Patchoulib.dll",
+        "Patchoulib\\Patchoulib.json",
+        "Patchoulib\\Patchoulib.pck"
+      ],
+      "folder_name": "Patchoulib",
+      "mod_id": "Patchoulib",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/still-rivers/sts2mm-profiles/main/mods/帕秋莉库_1.4.zip"
+    },
+    {
+      "name": "皮皮配置: ModConfig",
+      "version": "0.2.3",
+      "source": null,
+      "hash": "8447e852546eb29bd058d9c49c1def0ef09f312d3e7073c7c7cb1586a5edbf8f",
+      "files": [
+        "ModConfig.dll",
+        "ModConfig.json",
+        "ModConfig.pck"
+      ],
+      "folder_name": "ModConfig",
+      "mod_id": "ModConfig",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/still-rivers/sts2mm-profiles/main/mods/皮皮配置__ModConfig_0.2.3.zip"
+    },
+    {
+      "name": "Ancients Awakened",
+      "version": "v1.2.2",
+      "source": null,
+      "hash": "5ac0a6be93fe3274bc86a7bcb65cced3a3b04c3578950fd26e5e8c2bbeddf226",
+      "files": [
+        "AncientsAwakened.dll",
+        "AncientsAwakened.json",
+        "AncientsAwakened.pck"
+      ],
+      "folder_name": "AncientsAwakened",
+      "mod_id": "AncientsAwakened",
+      "enabled": false,
+      "bundle_url": "https://raw.githubusercontent.com/still-rivers/sts2mm-profiles/main/mods/Ancients_Awakened_1.2.2.zip"
+    },
+    {
+      "name": "Burning Mod",
+      "version": "v0.2.0",
+      "source": null,
+      "hash": "67a37d46b31b428b2363965fd9cc613bb754b0ce581e83eb6424a5c475a22ced",
+      "files": [
+        "BurningMod\\BurningMod.dll",
+        "BurningMod\\BurningMod.json",
+        "BurningMod\\BurningMod.pck"
+      ],
+      "folder_name": "BurningMod",
+      "mod_id": "BurningMod",
+      "enabled": false,
+      "bundle_url": "https://raw.githubusercontent.com/still-rivers/sts2mm-profiles/main/mods/Burning_Mod_0.2.0.zip"
+    },
+    {
+      "name": "Card Art Editor",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "7ccd49c05613a3f5af481ba341af1786946248eb4e6ea98204930f601bd274a2",
+      "files": [
+        "manifest.json"
+      ],
+      "folder_name": "manifest",
+      "mod_id": "card_art_editor",
+      "enabled": false,
+      "bundle_url": "https://raw.githubusercontent.com/still-rivers/sts2mm-profiles/main/mods/Card_Art_Editor_0.1.0.zip"
+    },
+    {
+      "name": "Enchanted Offerings",
+      "version": "0.0.3",
+      "source": null,
+      "hash": "a72405fcaae7663decbba005ee48305bfc4704caa827e5379a7f2ce6ff6e9d57",
+      "files": [
+        "EnchantedOfferings\\EnchantedOfferings.dll",
+        "EnchantedOfferings\\EnchantedOfferings.pck",
+        "EnchantedOfferings\\mod_manifest.json"
+      ],
+      "folder_name": "EnchantedOfferings",
+      "mod_id": "EnchantedOfferings",
+      "enabled": false,
+      "bundle_url": "https://raw.githubusercontent.com/still-rivers/sts2mm-profiles/main/mods/Enchanted_Offerings_0.0.3.zip"
+    },
+    {
+      "name": "Honglu",
+      "version": "0.1.7",
+      "source": null,
+      "hash": "f5ec26fec3747b756d5a9569270ad937c9f5756f3df91aa5384e83f6ae11dc8c",
+      "files": [
+        "Honglu\\Honglu.dll",
+        "Honglu\\Honglu.json",
+        "Honglu\\Honglu.pck"
+      ],
+      "folder_name": "Honglu",
+      "mod_id": "Honglu",
+      "enabled": false,
+      "bundle_url": "https://raw.githubusercontent.com/still-rivers/sts2mm-profiles/main/mods/Honglu_0.1.7.zip"
+    },
+    {
+      "name": "RelicPlusMod / 遗物升级模组",
+      "version": "v0.0.0",
+      "source": null,
+      "hash": "82e29871a4972c5787c09bacbaaaceb4a7b7d6cfaf57d4b5c1bab8998c8621b1",
+      "files": [
+        "RelicPlusMod\\RelicPlusMod.dll",
+        "RelicPlusMod\\RelicPlusMod.json",
+        "RelicPlusMod\\RelicPlusMod.pck"
+      ],
+      "folder_name": "RelicPlusMod",
+      "mod_id": "RelicPlusMod",
+      "enabled": false,
+      "bundle_url": "https://raw.githubusercontent.com/still-rivers/sts2mm-profiles/main/mods/RelicPlusMod___遗物升级模组_0.0.0.zip"
+    },
+    {
+      "name": "Ryoshu",
+      "version": "0.3.2",
+      "source": null,
+      "hash": "ed50468d597c16f150f92432872359f9ddb83c5647fba92d1aa5844bd10d04a8",
+      "files": [
+        "Ryoshu\\Ryoshu.dll",
+        "Ryoshu\\Ryoshu.json",
+        "Ryoshu\\Ryoshu.pck"
+      ],
+      "folder_name": "Ryoshu",
+      "mod_id": "Ryoshu",
+      "enabled": false,
+      "bundle_url": "https://raw.githubusercontent.com/still-rivers/sts2mm-profiles/main/mods/Ryoshu_0.3.2.zip"
+    },
+    {
+      "name": "十六夜咲夜",
+      "version": "1.7",
+      "source": null,
+      "hash": "dc356ca5c006c9bb525d9344c68b0ccef35b8130237cb8dab889f659afaa66da",
+      "files": [
+        "Sts2ModSakuya\\TH_Sakuya.dll",
+        "Sts2ModSakuya\\TH_Sakuya.json",
+        "Sts2ModSakuya\\TH_Sakuya.pck"
+      ],
+      "folder_name": "Sts2ModSakuya",
+      "mod_id": "TH_Sakuya",
+      "enabled": false,
+      "bundle_url": "https://raw.githubusercontent.com/still-rivers/sts2mm-profiles/main/mods/十六夜咲夜_1.7.zip"
+    },
+    {
+      "name": "塔1BOSS先古之民",
+      "version": "1.0",
+      "source": null,
+      "hash": "03399ac622eaad82b74573508b0721496b23a4cf1426a5ecafc732eda5c15ced",
+      "files": [
+        "SlayTheSpireBossAncients\\StsBossAncients.dll",
+        "SlayTheSpireBossAncients\\StsBossAncients.json",
+        "SlayTheSpireBossAncients\\StsBossAncients.pck"
+      ],
+      "folder_name": "SlayTheSpireBossAncients",
+      "mod_id": "StsBossAncients",
+      "enabled": false,
+      "bundle_url": "https://raw.githubusercontent.com/still-rivers/sts2mm-profiles/main/mods/塔1BOSS先古之民_1.0.zip"
+    }
+  ],
+  "created_at": "2026-05-16T20:19:37.871051100Z",
+  "updated_at": "2026-05-16T20:19:37.871051100Z"
+}
